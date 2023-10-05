@@ -63,6 +63,12 @@ unreleased
   * Switch fix_encoding to return dict instead of list of tuples
 
   * Make sure to roll back a failed `pick` even if the list of changed files is
+22.2.5 (unreleased)
+-------------------
+
+- Nothing changed yet.
+
+
 22.2.4 (2023-10-05)
 
   * Add test to check that unchanged objects and paths are not actually

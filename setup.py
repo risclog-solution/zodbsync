@@ -6,7 +6,7 @@ reqs = ['filelock', 'ZODB', 'Zope']
 
 setuptools.setup(
     name='perfact-zodbsync',
-    version='22.2.4',
+    version='22.2.5.dev0',
     description='Zope Recorder and Playback',
     long_description=''' ''',
     author='Ján Jockusch et.al.',
